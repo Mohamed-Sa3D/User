@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Pharma</string>
+
+    <!--.......................................................-->
+    <!--main Activity strings-->
+    <string name="edit_text_presc_hint">Type the Medicines you want </string>
+    <string name="edit_text_address_hint">Address</string>
+    <string name="enter_order">put your order Here</string>
+    <!--Buttons-->
+    <string name="button_upload">OR Upload Prescription</string>
+    <string name="button_confirm">Confirm Order</string>
+    <string name="button_map">Browse the map to set your Location</string>
+
+</resources>
